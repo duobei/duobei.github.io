@@ -13,6 +13,9 @@ Thumbs.db
 /yarn-error.log
 yarn.lock
 
+/vendor
+.jekyll-cache
+
 # Ignore Yard Doc
 /doc
 .yardoc/

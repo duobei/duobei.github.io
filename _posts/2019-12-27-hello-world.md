@@ -3,8 +3,11 @@ layout: post
 title: "Hello World!"
 description: "The first 'Hello world' post for Simple Texture theme."
 categories: [uncategorized]
-tags: [random, jekyll]
+tags: [random]
 redirect_from:
-  - /2013/04/22/
+  - /2019/12/27/
 ---
-Hello World! This is the beginning of this theme.
+Hello World Again!
+
+
+我還是會用回 [Typlog](https://typlog.com/)，現在很無奈。
